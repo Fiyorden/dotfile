@@ -91,10 +91,6 @@ else
    PS1="${C_YELLOW}>${C_DEF} ${C_BLUE}\u${C_DEF}@${MACHINE}${C_YELLOW}[${C_DEF}$IP${C_YELLOW}]${C_WHITE}:\w${C_BLUE}\$ ${C_DEF}"
    PS2="${C_BLUE}>${C_DEF}  "
 fi
-
-if [ "$PS1" ]; then
-  complete -cf sudo
-fi
  
 export PS2
 export PS1
