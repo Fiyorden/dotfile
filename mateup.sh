@@ -44,7 +44,7 @@ def cleanup(str)
   return str.gsub(/([ &])/, '\\\\\1')
 end
 
-dir = "#{ENV['HOME']}/  Library/Application\ Support/TextMate/Bundles"
+  dir = "#{ENV['HOME']}/Library/Application\ Support/TextMate/Bundles"
 begin
   Dir.chdir dir
 rescue Errno::ENOENT
