@@ -36,7 +36,8 @@ bundles = {
   'Jquery' => 'kswedberg/jquery-tmbundle',
   'Ruby on rails' => 'drnic/ruby-on-rails-tmbundle',
   'YUI Compressor' => 'mattkirman/YUI-Compressor-tmbundle',
-  'Formtastic' => 'grimen/formtastic_tmbundle'
+  'Formtastic' => 'grimen/formtastic_tmbundle',
+  'Simple Form' => 'doabit/simple_form_tmbundle'
 }
 
 # escape spaces and ampersands
