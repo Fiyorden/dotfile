@@ -37,7 +37,9 @@ bundles = {
   'Ruby on rails' => 'drnic/ruby-on-rails-tmbundle',
   'YUI Compressor' => 'mattkirman/YUI-Compressor-tmbundle',
   'Formtastic' => 'grimen/formtastic_tmbundle',
-  'Simple Form' => 'doabit/simple_form_tmbundle'
+  'Simple Form' => 'doabit/simple_form_tmbundle',
+  'Twitter Bootstrap' => 'vigo/textmate-twitterbootstrap.tmbundle',
+  'FTP SSH' => 'craigulliott/FTP-SSH.tmbundle'
 }
 
 # escape spaces and ampersands
