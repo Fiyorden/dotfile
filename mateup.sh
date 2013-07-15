@@ -39,7 +39,8 @@ bundles = {
   'Formtastic' => 'grimen/formtastic_tmbundle',
   'Simple Form' => 'doabit/simple_form_tmbundle',
   'Twitter Bootstrap' => 'vigo/textmate-twitterbootstrap.tmbundle',
-  'FTP SSH' => 'craigulliott/FTP-SSH.tmbundle'
+  'FTP SSH' => 'craigulliott/FTP-SSH.tmbundle',
+  'PHP Smarty' => 'textmate/php-smarty.tmbundle'
 }
 
 # escape spaces and ampersands
